@@ -1,0 +1,1 @@
+# covid19_shizuoka-opendata_notifier
