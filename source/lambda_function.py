@@ -48,8 +48,7 @@ CITIES = [
     ), 
     CityInfo(
         "shizuoka-shi", 
-#        "main_summary:c04e2d2f-2ce4-4e32-856a-b7e760ba982d,patients:c04e2d2f-2ce4-4e32-856a-b7e760ba982d,patients_summary:c04e2d2f-2ce4-4e32-856a-b7e760ba982d,inspection_persons:6b102a25-9746-4dac-b6a9-8370afe6af75,contacts:4e25348c-b24d-4bc5-b85b-dac9e2fd2439", 
-        "contacts:4e25348c-b24d-4bc5-b85b-dac9e2fd2439", 
+        "main_summary:9e45764c-d800-48b3-bcad-02c035e06b1e,patients:9e45764c-d800-48b3-bcad-02c035e06b1e,patients_summary:9e45764c-d800-48b3-bcad-02c035e06b1e,inspection_persons:67b22ce0-fe1f-4340-ba57-84b1b05495b6,contacts:4e25348c-b24d-4bc5-b85b-dac9e2fd2439", 
         SLACK_WEBHOOK_HAMAMATSU
     )
 ]
